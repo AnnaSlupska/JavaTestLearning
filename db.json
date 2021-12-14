@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "firstName": "Jacek",
+      "lastName": "Synus",
+      "subjectId": "1",
+      "id": "3"
+    },
+    {
+      "firstName": "Marzena",
+      "lastName": "Kowalska",
+      "subjectId": "1",
+      "id": "4"
+    },
+    {
+      "firstName": "Jagoda",
+      "lastName": "Corka",
+      "id": "4",
+      "subjectId": "1"
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Einstein",
+      "subjectId": 2,
+      "id": "5"
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Edison",
+      "subjectId": 1,
+      "id": "6"
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Einstein",
+      "subjectId": 2,
+      "id": "3YJuQUi"
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Edison",
+      "subjectId": 1,
+      "id": "-bYFyGE"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "1",
+      "name": "automation"
+    },
+    {
+      "id": "2",
+      "name": "devops"
+    }
+  ]
+}
